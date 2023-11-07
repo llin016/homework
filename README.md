@@ -1,4 +1,4 @@
 # homework
 Homework assignments for python
 
-First assignment is about data visualization.
+hwVisualization.py -- data visualization for homework 1
